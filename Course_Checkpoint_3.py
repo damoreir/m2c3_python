@@ -12,15 +12,15 @@ boolean = (1 > 0) #True (Boolean)
 
 #___________Exercice 2___________
 
-primera_palavra = sentence [0:3]
-# print(primera_palavra)
+primera_palabra = sentence [0:3]
+# print(primera_palabra)
 
 
 
 #___________Exercice 3___________
 
-primero_elemento = frutas [0]
-# print(primero_elemento)
+primer_elemento = frutas [0]
+# print(primer_elemento)
 
 
 
